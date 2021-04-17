@@ -1,11 +1,16 @@
-### Hi, I'm Paulo! :D 👋
+### Hi, I'm Paulo! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulohmls)](https://github.com/paulohmls)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-melo-99258aa4/)](https://www.linkedin.com/in/paulo-henrique-melo-99258aa4/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulohmls)](https://twitter.com/paulohmls)
 
 ### About me
-I work as a QA Analyst at Prime Control. [@primecontrol](https://www.primecontrol.com.br/).
+I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontrol.com.br/).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **paulohmls/paulohmls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
