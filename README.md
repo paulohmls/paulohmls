@@ -9,6 +9,9 @@ I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontro
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls&show_icons=true&theme=radical)
+
+
 
 
 
