@@ -11,7 +11,7 @@ I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontro
 
  <div>
   <a href="https://github.com/paulohmls">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohmls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohmls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohmls&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
