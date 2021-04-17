@@ -7,9 +7,12 @@
 ### About me
 I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontrol.com.br/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls)](https://github.com/paulohmls/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohmls&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohmls)](https://github.com/paulohmls/)
+
 
 
 
