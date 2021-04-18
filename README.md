@@ -19,7 +19,7 @@ I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontro
   <img align="center" alt="Paulohmls-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulohmls-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulohmls-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><br>
-</div>
+</div><br>
  
 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/paulohmls)](https://github.com/paulohmls)
