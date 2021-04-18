@@ -12,8 +12,6 @@ I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontro
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohmls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <div>
  
- <img align="center" alt="Paulohmls-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
- 
  <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulohmls-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
