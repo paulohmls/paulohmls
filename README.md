@@ -21,7 +21,7 @@ I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontro
   <img align="center" alt="Paulohmls-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
-
+<br>
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/paulohmls)](https://github.com/paulohmls)
 <br/>
 <!--
