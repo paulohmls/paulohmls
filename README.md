@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulohmls)](https://twitter.com/paulohmls)
 
 ### About me
-I work as a QA Analyst at Prime Control. [@PrimeControl](https://www.primecontrol.com.br/).
+I work as a QA Analyst at [@PrimeControl](https://www.primecontrol.com.br/).
 
  <div>
   <a href="https://github.com/paulohmls">
