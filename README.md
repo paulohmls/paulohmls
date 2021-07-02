@@ -14,7 +14,7 @@ I work as a QA Analyst at [@PrimeControl](https://www.primecontrol.com.br/).
  
  
 
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/paulohmls)](https://github.com/paulohmls)
+
 
 <!--
 **paulohmls/paulohmls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
